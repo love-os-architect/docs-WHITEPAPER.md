@@ -211,7 +211,7 @@ We define human emotions as measurable physical phenomena within the neural circ
   ## Visualizing the Stability Well
 The following map illustrates the potential landscape of Love-OS v1.3.
 The goal is to move from the high-energy "Danger Zone" (Top-Left) to the deep, stable "Target Zone" (Bottom-Right).
-
+![Stability Map v1.3](./_map_v1.3.png)
 
 
 # [EMBED_START: LOVE_OS_CORE_v3.1]
