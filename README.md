@@ -226,7 +226,7 @@ $$
 I(x,t) = \frac{V(x,t)}{R(x,t)} + \eta(x,t)
 $$
 
-* **$x$ (Spatial Coordinate):** "Place." Himeji, a specific office, or a living room. Each location has a unique distribution of Potential ($V$) and Resistance ($R$).
+* **$x$ (Spatial Coordinate):** "Place."wherever, a specific office, or a living room. Each location has a unique distribution of Potential ($V$) and Resistance ($R$).
 * **The Principle of Locality:** Flow does not happen uniformly; it generates locally from "hotspots" where the gradient of $V/R$ is steepest and propagates outward.
 
 ### 2. The Law of Conservation of Love-Energy
